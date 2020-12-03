@@ -20,3 +20,4 @@ The Lambda function will take any inbound message from the SNS topic and publish
 
 ### TO DO
 1. Create Terraform scripts to do automated deployment of Lambda, SNS, CloudWatch Logs
+2. Create automated deployment of main function to AWS
